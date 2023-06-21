@@ -1,0 +1,66 @@
+
+.btn-span a{
+    text-decoration: none;
+    color:blueviolet;
+    font-size: 17px;
+    font-weight:600;
+}
+.btn-span{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    padding-bottom: 6px;
+    margin-top: 6px;
+    border-bottom: 1px solid lightgrey;
+    font-size:17px;
+    font-weight:600;
+}
+.btn-item a {
+    text-decoration: none;
+    color: black;
+}
+.btn-item a:hover{
+    color: black;
+}
+.btn-item{
+    padding: 5px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid lightgrey;
+    color: black;
+}
+.btn-item1{
+    padding: 5px;
+    color: bl;
+}
+.btn-item1 a{
+    text-decoration:none;
+    color:black;
+}
+.btn-item1 a:hover{
+    color: black;
+}
+.btn-item:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+    color: black;
+}
+.btn-item1:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    color: black;
+}
+/* .btn-tra{
+        width: 0;
+        height: 0;
+        border-left: 9px solid transparent;
+        border-right: 9px solid transparent;
+        border-bottom: 16px solid white;
+        margin: 0px 100px 0px 100px;
+}  */
+.profil-icon{
+    margin-right: 15px;
+    margin-left: 10px;
+    color: #2874f0;
+}
+

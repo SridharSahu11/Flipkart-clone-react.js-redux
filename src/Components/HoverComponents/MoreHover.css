@@ -1,0 +1,45 @@
+
+.more-item a{
+    text-decoration:none;
+    color: black;
+}
+.more-item a:hover{
+    color: black;
+}
+.more-item{
+    padding: 5px;
+    padding-bottom: 11px;
+    padding-top: 11px;
+    border-bottom: 1px solid lightgray;
+}
+.more-item1 a{
+    text-decoration:none;
+    color: black;
+}
+.more-item1 a:hover{
+    color: black;
+}
+.more-item1{
+    padding: 5px;
+    padding-bottom: 11px;
+    padding-top: 11px;
+}
+.more-item1:hover{
+    background-color: whitesmoke;
+    border-radius: 4px;
+}
+.more-item:hover{
+    background-color: whitesmoke;
+}
+.more-icons{
+    color: #2874f0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* #more-tra{
+    width: 0;
+    height: 0;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 16px solid white;
+} */
